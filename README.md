@@ -2,7 +2,7 @@
 
 Welcome to my collection of games! Below you'll find links to where you can play them:
 
-- [My game collection on itch.io](https://breaddev-here.itch.io/)
+- [My game collection on itch.io](https://aliega-studios.itch.io/)
 
 Feel free to explore and enjoy! Additionally, here are some upcoming projects I'm working on:
 
